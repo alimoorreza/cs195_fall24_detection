@@ -1,1 +1,1 @@
-# cs195_fall24_detection
+# cs195-fall24-object-detection
